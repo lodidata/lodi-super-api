@@ -1,0 +1,1047 @@
+[
+  {
+    "action": [
+      "delete",
+      "update",
+      "fetch",
+      "insert"
+    ],
+    "path": "/index",
+    "name": "网站",
+    "iconCls": "iconfont icon-dianpudanganwangzhan",
+    "children": [
+      {
+        "path": "/ADList",
+        "iconCls": "",
+        "name": "轮播广告",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/ADHome",
+        "iconCls": "",
+        "name": "文案管理",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/proxyCopy",
+        "iconCls": "",
+        "name": "代理文案",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/depositCopy",
+        "iconCls": "",
+        "name": "存款文案",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/ckManage",
+        "iconCls": "",
+        "name": "浮动图管理",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/promotionalResources",
+        "name": "代理推广资源",
+        "iconCls": "",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/registerSet",
+        "name": "注册设置",
+        "iconCls": "",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/webSet",
+        "name": "站点设置",
+        "iconCls": "",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/sysMessage",
+        "name": "消息",
+        "iconCls": "",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/notice",
+        "iconCls": "",
+        "name": "公告管理",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/msgManagement",
+        "iconCls": "",
+        "name": "消息管理",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/resourcesManagement",
+        "iconCls": "",
+        "name": "资源站管理",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      }
+    ]
+  },
+  {
+    "action": [
+      "delete",
+      "update",
+      "fetch",
+      "insert"
+    ],
+    "path": "/index",
+    "name": "营销",
+    "iconCls": "iconfont icon-yingxiao",
+    "children": [
+      {
+        "path": "/apply",
+        "iconCls": "",
+        "name": "优惠申请",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/typeList",
+        "iconCls": "",
+        "name": "优惠类型",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/activeSet",
+        "iconCls": "",
+        "name": "自动优惠模板",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/addActiveSet",
+        "iconCls": "",
+        "name": "创建活动模板",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/activeMode_1",
+        "iconCls": "",
+        "name": "每日签到模板优惠设置",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/activeMode_2",
+        "iconCls": "",
+        "name": "邮箱验证模板优惠设置",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/activeMode_3",
+        "iconCls": "",
+        "name": "手机验证模板优惠设置",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/activeMode_4",
+        "iconCls": "",
+        "name": "每日抽奖模板优惠设置",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/activeMode_5",
+        "iconCls": "",
+        "name": "救援金模板优惠设置",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/activeMode_6",
+        "iconCls": "",
+        "name": "擂台赛模板优惠设置",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/activeMode_7",
+        "iconCls": "",
+        "name": "奖上奖模板优惠设置",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/activeMode_8",
+        "iconCls": "",
+        "name": "连续闯关模板优惠设置",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/activeMode_9",
+        "iconCls": "",
+        "name": "存款优惠模板优惠设置",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/activeMode_email",
+        "iconCls": "",
+        "name": "模板优惠设置(邮箱验证)",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/contentManagement",
+        "iconCls": "",
+        "name": "手动优惠",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/discountQuery",
+        "iconCls": "",
+        "name": "返水优惠查询",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/discountSetting",
+        "iconCls": "",
+        "name": "返水优惠设定",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      }
+    ]
+  },
+  {
+    "action": [
+      "delete",
+      "update",
+      "fetch",
+      "insert"
+    ],
+    "path": "/index",
+    "name": "游戏",
+    "iconCls": "iconfont icon-37750",
+    "children": [
+      {
+        "path": "/lotteryModel",
+        "iconCls": "",
+        "name": "彩票游戏模板",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/lotteryOdds",
+        "iconCls": "",
+        "name": "彩票赔率",
+        "hidden": true,
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/lotterInstantNote",
+        "iconCls": "",
+        "name": "彩票即时注单",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/lotterSingleNote",
+        "iconCls": "",
+        "name": "彩票注单管理",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/lotterPeriodManagement",
+        "iconCls": "",
+        "name": "彩票设定",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/lotteryResults",
+        "iconCls": "",
+        "name": "开奖结果",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      }
+    ]
+  },
+  {
+    "action": [
+      "delete",
+      "update",
+      "fetch",
+      "insert"
+    ],
+    "path": "/index",
+    "name": "风控",
+    "iconCls": "iconfont icon-shield",
+    "children": [
+      {
+        "path": "/ipBlacklist",
+        "iconCls": "",
+        "name": "IP黑名单",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/duplicateAccount",
+        "iconCls": "",
+        "name": "重复账号",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      }
+    ]
+  },
+  {
+    "action": [
+      "delete",
+      "update",
+      "fetch",
+      "insert"
+    ],
+    "path": "/index",
+    "name": "用户",
+    "iconCls": "iconfont icon-yonghuguanli",
+    "children": [
+      {
+        "path": "/memberManagement",
+        "iconCls": "",
+        "name": "会员管理",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/memberHierarchy",
+        "iconCls": "",
+        "name": "会员层级",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/memberLabel",
+        "iconCls": "",
+        "name": "会员标签",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/idleAccount",
+        "iconCls": "",
+        "name": "闲置帐号",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/LoginAccount",
+        "iconCls": "",
+        "name": "登录查询",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/agentAccount",
+        "iconCls": "",
+        "name": "代理管理",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/agentAudit",
+        "iconCls": "",
+        "name": "代理审核",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/childAccount",
+        "iconCls": "",
+        "name": "管理员列表",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/childRoleAccount",
+        "iconCls": "",
+        "name": "管理员角色",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/effectiveBettingQuery",
+        "iconCls": "",
+        "name": "有效投注查询",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      }
+    ]
+  },
+  {
+    "action": [
+      "delete",
+      "update",
+      "fetch",
+      "insert"
+    ],
+    "path": "/index",
+    "name": "注单",
+    "iconCls": "iconfont icon-dingdan",
+    "children": [
+      {
+        "path": "/chaseNumber",
+        "iconCls": "",
+        "name": "追号记录",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/noteManagement",
+        "iconCls": "",
+        "name": "注单查询",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      }
+    ]
+  },
+  {
+    "action": [
+      "delete",
+      "update",
+      "fetch",
+      "insert"
+    ],
+    "path": "/index",
+    "name": "现金",
+    "iconCls": "iconfont icon-iconfontqian",
+    "children": [
+      {
+        "path": "/bankManagement",
+        "iconCls": "",
+        "name": "银行管理",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/otherPayment",
+        "iconCls": "",
+        "name": "第三方支付平台",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/receivableBank",
+        "iconCls": "",
+        "name": "收款帐户",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/onLineReceipts",
+        "iconCls": "",
+        "name": "线上充值",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/offlineReceipts",
+        "iconCls": "",
+        "name": "线下转帐",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/memberGetOut",
+        "iconCls": "",
+        "name": "会员提现",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/payment",
+        "iconCls": "",
+        "name": "提现付款",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/manual",
+        "iconCls": "",
+        "name": "人工存提",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/fundDetails",
+        "iconCls": "",
+        "name": "现金流水",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/transferRecord",
+        "iconCls": "",
+        "name": "转帐记录",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      }
+    ]
+  },
+  {
+    "action": [
+      "delete",
+      "update",
+      "fetch",
+      "insert"
+    ],
+    "path": "/index",
+    "name": "佣金",
+    "iconCls": "iconfont icon-yongjin",
+    "children": [
+      {
+        "path": "/commissionFeeset",
+        "iconCls": "",
+        "name": "退佣手续费",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/CommissionSet",
+        "iconCls": "",
+        "name": "代理退佣比例",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/agentSettlementSet",
+        "iconCls": "",
+        "name": "退佣设定",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/RefundCommissionPeriod",
+        "iconCls": "",
+        "name": "退佣期数",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/CommissionIncomeQuery",
+        "iconCls": "",
+        "name": "退佣查询",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/subAgentRebate",
+        "iconCls": "",
+        "name": "下级佣金统计",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/agencyStatistics",
+        "iconCls": "",
+        "name": "代理统计",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/agentLink",
+        "iconCls": "",
+        "name": "代理推广链接",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/agentDrawing",
+        "iconCls": "",
+        "name": "代理提款",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      }
+    ]
+  },
+  {
+    "action": [
+      "delete",
+      "update",
+      "fetch",
+      "insert"
+    ],
+    "path": "/index",
+    "name": "报表",
+    "iconCls": "iconfont icon-bingtu",
+    "children": [
+      {
+        "path": "/sumStatement",
+        "iconCls": "",
+        "name": "总报表",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/playerStatement",
+        "iconCls": "",
+        "name": "玩家报表",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/gameStatement",
+        "iconCls": "",
+        "name": "游戏报表",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/memberStatement",
+        "iconCls": "",
+        "name": "会员出入款",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/fundDetailsSummary",
+        "iconCls": "",
+        "name": "出入款汇总",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/memberBalance",
+        "iconCls": "",
+        "name": "余额汇总",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      }
+    ]
+  },
+  {
+    "action": [
+      "delete",
+      "update",
+      "fetch",
+      "insert"
+    ],
+    "path": "/index",
+    "name": "系统",
+    "iconCls": "iconfont icon-xitongguanli1",
+    "children": [
+      {
+        "path": "/sysLog",
+        "iconCls": "",
+        "name": "后台操作日志",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/operationLog",
+        "iconCls": "",
+        "name": "会员操作日志",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/fieldSettings",
+        "iconCls": "",
+        "name": "系统设置",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/emailList",
+        "iconCls": "",
+        "name": "邮件管理",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/currencySettings",
+        "iconCls": "",
+        "name": "货币设定",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/otherService",
+        "iconCls": "",
+        "name": "第三方客服",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/emailSettings",
+        "iconCls": "",
+        "name": "邮件服务器",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      },
+      {
+        "path": "/domainNameSet",
+        "iconCls": "",
+        "name": "域名设置",
+        "action": [
+          "delete",
+          "update",
+          "fetch",
+          "insert"
+        ]
+      }
+    ]
+  }
+]
